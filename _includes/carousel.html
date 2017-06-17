@@ -1,0 +1,31 @@
+{% assign id = include.id %}
+{% assign ride = include.ride %}
+{% assign images = include.images | split: "|" %}
+{% assign titles = include.titles | split: "|" %}
+<div id="carousel-{{ id }}" class="carousel slide"{% if ride %} data-ride="carousel"{% endif %}>
+  <ol class="carousel-indicators">
+    {% for image in images
+      %}<li data-target="#carousel-{{ id }}" data-slide-to="{{ forloop.index }}"{% if forloop.first %} class="active"{% endif %}></li>
+    {% endfor %}
+  </ol>
+
+  <div class="carousel-inner" role="listbox">
+    {% for image in images
+      %}{% assign title_idx = forloop.index | minus: 1
+      %}{% assign title = titles[title_idx] %}
+      <div class="item{% if forloop.first %} active{% endif %}">
+        <img src="/img/{{ image }}" alt="{{ title }}">
+        {% if title %}<div class="carousel-caption"><h3>{{ title }}</h3></div>{% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <a class="left carousel-control" href="#carousel-{{ id }}" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Vorige</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-{{ id }}" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Volgende</span>
+  </a>
+</div>

@@ -1,0 +1,14 @@
+.vision-sentence {
+  margin-bottom: 2.2ex;
+}
+
+.vision-sentence p {
+  text-align: center;
+  font-size: 1.7em;
+  font-weight: 300;
+}
+
+.vision-sentence em {
+  font-style: normal;
+  font-weight: 500;
+}

@@ -1,0 +1,43 @@
+# Site settings
+title: Dorothy gemeenschap
+email: contact@dorothygemeenschap.nl
+url: https://www.dorothygemeenschap.nl/
+description: Wij zijn een gastvrije gemeenschap die vanuit een spiritualiteit van eenvoud een boodschap van barmhartigheid en rechtvaardigheid wil uitdragen.
+#meta_author: LastName FirstName
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+collections:
+  - people
+  - modals
+
+# Footer settings
+footer:
+  copyright: Dorothy gemeenschap
+
+hero:
+  image: img/group-3.jpg
+  line1: gastvrijheid, spiritualiteit, barmhartigheid, rechtvaardigheid
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: <a href="https://www.openstreetmap.org/node/2799382644">Middenweg Bovenkerkerpolder 1</a>
+  - line: 1188 WR, Amstelveen
+
+# Credits content
+credits:
+  <small>
+    Kom je met het OV? Neem de bus naar de <a href="https://9292.nl/uithoorn/bushalte-romeflat">Romeflat in Uithoorn</a>,
+    dan 15 minuten lopen.
+  </small>
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - LICENSE

@@ -1,0 +1,15 @@
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-text">
+                        <span class="name name-front">{{ site.title }}</span>
+                        <img class="img-responsive" src="{{ site.hero.image }}" alt="">
+                        <!-- <hr class="star-light"> -->
+                        {% if site.hero.line1 %}<div class="skills">{{ site.hero.line1 }}</div>{% endif %}
+                        {% if site.hero.line2 %}<div class="skills"><i>{{ site.hero.line2 }}</i></div>{% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>

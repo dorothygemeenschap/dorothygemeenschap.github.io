@@ -1,0 +1,9 @@
+{% include css/bootstrap.min.css %}
+{% include css/main.css %}
+{% include css/header.css %}
+{% include css/vision.css %}
+{% include css/people.css %}
+{% include css/status.css %}
+{% include css/join.css %}
+
+{% include css/blog.css %}

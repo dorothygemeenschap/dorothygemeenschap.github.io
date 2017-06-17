@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+
+    <section class="no-header blog" id="first-post">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>{{ page.title }}</h2>
+                    {% if page.author or page.date %}
+                      <div class="blog-detail-line">
+                        {% if page.author %}door {{ page.author }}{% endif %}
+                        {% if page.date %}op {{ page.date | date_to_long_string }}{% endif %}
+                      </div>
+                    {% endif %}
+                    <hr class="star-primary">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+          <div class="container">
+{{ content }}
+          </div>
+        </div>
+    </section>
+
+    {% include join.html %}
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

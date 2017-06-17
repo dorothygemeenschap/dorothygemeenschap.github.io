@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+
+    <section class="no-header blog" id="blogs">
+      {% for post in site.posts %}
+        {% if post.published %}
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-12 text-center">
+                      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                  </div>
+                  {% if post.author or post.date %}
+                    <div class="blog-detail-line">
+                      {% if post.author %}door {{ post.author }}{% endif %}
+                      {% if post.date %}op {{ post.date | date_to_long_string }}{% endif %}
+                    </div>
+                  {% endif %}
+                  <div class="col-lg-12">
+                      <div>
+                        {{ post.excerpt }}
+                        <p class="blog-read-more">
+                          <a href="{{ post.url }}">Lees verder ...</a>
+                        </p>
+                      </div>
+                      <hr class="star-primary">
+                  </div>
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </section>
+
+    {% include join.html %}
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

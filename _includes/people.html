@@ -1,0 +1,57 @@
+    <section class="people" id="wie-zijn-we">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Wie wij zijn</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row faces-container">
+                {% assign people_count = site.people | size %}
+                {% for person in site.people %}
+                  <div class="people-item text-center" style="width: {{ 100 | divided_by:people_count | round:1 }}%">
+                    <a href="#wie-{{ person.slug }}" aria-controls="wie-{{ person.slug }}" role="tab" data-toggle="tab" data-toggle-hover="tab">
+                        <div class="img-face-container">
+                          <img src="img/{{ person.img }}" class="img-responsive img-face" alt="{{ person.name }}">
+                          <div class="img-face-blur"></div>
+                        </div>
+                        <div class="img-face-caption hidden-xs hidden-sm">{{ person.first_name }}</div>
+                    </a>
+                  </div>
+                {% endfor %}
+            </div>
+            <div class="row people-desc">
+              <div class="panel panel-default tabs-virgin">
+                <div class="panel-body">
+                  <div class="tab-content">
+                    {% for person in site.people %}
+                      <div role="tabpanel" class="tab-pane fade" id="wie-{{ person.slug }}">
+                        {% capture nameage %}{{ person.name }} ({{ 'now' | date:'%Y' | minus:person.birthyear }}){% endcapture %}
+                        {{ person.content | replace:'NAME_AND_AGE',nameage }}
+                      </div>
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12 text-center">
+                <h2>Onze inspiratie</h2>
+                <hr class="star-primary">
+              </div>
+              <div class="col-lg-12">
+                <p>Wij halen veel inspiratie uit de <a href="http://catholicworker.org/">Catholic Worker</a>
+                beweging en voelen ons hiermee verbonden.
+                Deze beweging bestaat uit zelfstandige gemeenschappen van radicale gelovigen die hulp aan mensen
+                aan de rand van de samenleving combineren met directe actie voor gerechtigheid in de wereld.</p>
+                <p>Andere mooie voorbeelden vinden we in bewegingen zoals de
+                <a href="https://www.emmaus-international.org/en">Emmaüs-</a> en
+                <a href="http://www.larche.org/">L'Arche</a>-gemeenschappen,
+                <a href="https://en.wikipedia.org/wiki/New_Monasticism">New Monasticism</a>,
+                <a href="http://www.taize.fr/en">Taizé</a>,
+                de <a href="http://www.mkgandhi.org/museum/museum_libraries.htm">Ashrams</a> van Gandhi
+                en de levenswijze van de eerste christenen.</p>
+              </div>
+            </div>
+        </div>
+    </section>

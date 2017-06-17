@@ -1,0 +1,42 @@
+backend:
+  name: github
+  repo: dorothygemeenschap/dorothygemeenschap.github.io
+  branch: master
+
+media_folder: 'img/'
+site_url: 'https://dorothygemeenschap.github.io'
+
+slug:
+  encoding: 'ascii'
+  clean_accents: true
+  sanitize_replacement: "_"
+
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: false }
+      - { label: 'Published', name: 'published', widget: 'boolean', default: true }
+      - { label: 'Boundary', name: 'excerpt_separator', widget: 'hidden', default: '<!-- more -->' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'people'
+    label: 'People'
+    folder: '_people/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Image', name: 'img', widget: 'image', allow_multiple: false }
+      - { label: 'Full name', name: 'name', widget: 'string' }
+      - { label: 'First name', name: 'first_name', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Birth year', name: 'birthyear', widget: 'year' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

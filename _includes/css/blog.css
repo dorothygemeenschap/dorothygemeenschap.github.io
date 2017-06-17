@@ -1,0 +1,12 @@
+
+.blog-detail-line {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 2ex;
+}
+
+.blog-read-more > a {
+  font-style: italic;
+  display: block;
+  width: 100%;
+}
