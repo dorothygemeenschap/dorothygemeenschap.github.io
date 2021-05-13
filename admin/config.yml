@@ -4,7 +4,7 @@ backend:
   branch: master
 
 media_folder: 'img/'
-site_url: 'https://dorothygemeenschap.github.io'
+site_url: 'https://www.dorothygemeenschap.nl/'
 
 slug:
   encoding: 'ascii'
@@ -17,8 +17,7 @@ collections:
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
+    preview_path: 'blog/{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Title', name: 'title', widget: 'string' }
