@@ -8,6 +8,7 @@ author: Herman
 ---
 Een paar jaar terug was ik op een nogal radicaal [festivalletje](http://www.pinksterlanddagen.nl/). Er waren workshops over het sluiten van kolencentrales (voor!), de privatisering van gevangenissen (tegen!), anti-racisme, anti-militarisme en een kinderprogramma over ‘Monsanto-monsters’. Maar in die periode voelde ik me vooral aangetrokken tot de sociale kant van het gebeuren. Ik volgde een workshop over kinderen opvoeden, en eentje over omgaan met onderlinge conflicten (tussendoor leerde ik voor de lol ook nog iets over lockpicking van een kraker en klimtechniek van een boom-bezetter, maar dat is een ander verhaal). Het was misschien te verwachten, maar ook in deze wat ‘softere’ workshops sijpelde de sociale strijd naar binnen. Ik ergerde me daaraan.
 <br>
+<!--more-->
 
 
 Specifiek aan een jonge vrouw die precies míjn workshops leek te volgen. Bij de workshop over opvoeding vroeg ze ‘Maar hoe kunnen we het beste omgaan met kinderen die dieren zijn?’. En bij die over conflicten: ‘Hoe lossen we een conflict op met groepsgenoten die dieren zijn?’. Super-irritant vond ik dat.
