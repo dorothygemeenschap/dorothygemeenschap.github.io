@@ -2,7 +2,7 @@
 layout: default
 title: Onze naasten die dieren zijn
 date: 2021-05-31T11:44:45.543Z
-published: false
+published: true
 excerpt_separator: <!-- more -->
 author: Herman
 ---
