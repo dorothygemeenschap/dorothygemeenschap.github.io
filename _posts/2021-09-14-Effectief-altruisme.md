@@ -6,8 +6,6 @@ published: true
 author: Matthias
 ---
 
-Effectief altruïsme
-
 Ethiek draait, mijn inziens, om de vraag: hoe moet ik leven? Het lijkt een simpele vraag, maar hij is eigenlijk heel gelaagd, het gaat namelijk niet alleen om de grote beslissingen die we nemen op momenten van morele betekenis, maar ook om alledaagse handelingen in het gewone leven. Nu we steeds meer leren over het effect van onze alledaagse handelingen hier in Nederland op het klimaat en op mondiale ongelijkheid is het belangrijk om een mondiaal perspectief op deze vraag te nemen. Het effectief altruïsme, een stroming binnen de moraalfilosofie, biedt hier een interessante principe voor waar ik de laatste tijd veel over nagedacht heb en graag met jullie wil delen. 
 
 Een aantal jaar geleden leerde ik in gesprek met een vriendin dat het effectief altruïsme draait om berekeningen: hoe richt ik mijn altruïsme zo effectief mogelijk in? Waar krijg ik het meeste goed gedaan voor mijn geld of tijd? Vaak draait het hier om het omrekenen van een Westers salaris naar impact in armere landen. Effectief altruïsten rekenen graag voor dat wat een gemiddelde Nederlander uitgeeft aan bioscoopkaartjes en etentjes buiten de deur een gemiddelde Malinees een jaar lang van basale levensbehoeftes kan voorzien. Elke cent die hier in Nederland wordt uitgegeven aan een snelle cappuccino bij de AH-to go of een stedentripje krijgt veel meer voor elkaar als het in Afghanistan wordt ingezet om mijnen te ruimen of rekenlessen te organiseren. 
