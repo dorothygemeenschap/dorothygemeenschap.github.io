@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open dag - 2 0ktobe
+title: Open dag - 2 0ktober
 date: 2021-09-15T13:37:42.882Z
 published: true
 excerpt_separator: <!-- more -->
