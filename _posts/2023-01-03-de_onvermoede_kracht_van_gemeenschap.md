@@ -7,6 +7,7 @@ excerpt_separator: <!-- more -->
 author: Mieke
 ---
 Als mensen me vragen waarom ik in een leefgemeenschap leef zeg ik wel eens half voor de grap: “omdat ik het stom vond om een koelkast te hebben voor mezelf alleen”. Ik woonde hiervoor in een zelfstandig appartement, en het kopen van een koelkast stond me zó tegen dat ik het uiteindelijk anderhalf jaar zonder heb gedaan. Vanaf dat ik op mezelf ging wonen, ging ik gaandeweg steeds meer bezig met wat we ‘duurzaamheid’ noemen. Van katoenen zakdoeken tot plasticvrij boodschappen, ik kon er aardig ver in doorgaan. Het paste dus niet bij mij om zo’n enorm elektrisch apparaat aan te schaffen wat vervolgens vooral leeg zou staan. (Een lege koelkast verbruikt ook nog eens meer energie dan een volle!) In een leefgemeenschap deel je spullen met elkaar en dat is  duurzamer. Maar door hier te wonen ben ik ook een andere vorm van duurzaamheid gaan ontdekken. Zelfs zozeer dat ik de term ‘duurzaamheid’ tegenwoordig onprettig vind klinken. 
+<!--more-->
 
 
 
