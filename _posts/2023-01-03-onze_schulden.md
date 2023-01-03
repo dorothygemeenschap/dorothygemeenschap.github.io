@@ -3,7 +3,7 @@ layout: default
 title: Onze Schulden
 date: 2023-01-03T18:17:36.860Z
 published: true
-excerpt_separator: <!-- more -->
+excerpt_separator: <!--more-->
 author: Herman
 ---
 Rondom het WK in Qatar was het opeens uitgebreid in het nieuws: gastarbeiders moesten in totaal [miljarden](https://nos.nl/artikel/2423402-arbeiders-moesten-zelf-miljarden-betalen-om-in-wk-gastland-qatar-te-werken) betalen om in Qatar te mógen komen werken. Dit zijn bijvoorbeeld mensen uit Bangladesh, die zich voor duizenden euro’s in de schulden steken om een uitzendbureau te betalen dat werk in Qatar voor hen regelt. Vervolgens bouwen deze arbeiders jarenlang onder verschrikkelijke omstandigheden aan onze voetbalstadions, terwijl hun loon gaat naar het afbetalen van een kunstmatig hoge lening. Op deze manier zitten ze compleet in de val. Dit wordt vaak gepresenteerd als een mensenrechtenschending ver weg, op een plek waar geen democratie is. Maar dit soort schuld-slavernij komt bijna overal voor. Zelfs in het progressieve Zweden moet een Thaise arbeider [1500 kilo bosbessen](https://www.svt.se/nyheter/lokalt/gavleborg/ont-om-bar-i-skogarna-tufft-for-thailandska-barplockare) plukken voordat hij de schuld van de heenreis afbetaald heeft.
