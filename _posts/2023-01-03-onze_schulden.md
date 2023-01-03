@@ -7,6 +7,7 @@ excerpt_separator: <!-- more -->
 author: Herman
 ---
 Rondom het WK in Qatar was het opeens uitgebreid in het nieuws: gastarbeiders moesten in totaal [miljarden](https://nos.nl/artikel/2423402-arbeiders-moesten-zelf-miljarden-betalen-om-in-wk-gastland-qatar-te-werken) betalen om in Qatar te mógen komen werken. Dit zijn bijvoorbeeld mensen uit Bangladesh, die zich voor duizenden euro’s in de schulden steken om een uitzendbureau te betalen dat werk in Qatar voor hen regelt. Vervolgens bouwen deze arbeiders jarenlang onder verschrikkelijke omstandigheden aan onze voetbalstadions, terwijl hun loon gaat naar het afbetalen van een kunstmatig hoge lening. Op deze manier zitten ze compleet in de val. Dit wordt vaak gepresenteerd als een mensenrechtenschending ver weg, op een plek waar geen democratie is. Maar dit soort schuld-slavernij komt bijna overal voor. Zelfs in het progressieve Zweden moet een Thaise arbeider [1500 kilo bosbessen](https://www.svt.se/nyheter/lokalt/gavleborg/ont-om-bar-i-skogarna-tufft-for-thailandska-barplockare) plukken voordat hij de schuld van de heenreis afbetaald heeft.
+<!--more-->
 
 In Palestina is het niet anders, ook tweeduizend jaar geleden al. Alleen worden schulden niet terugbetaald in bosbessen, maar in vis[^1]. Hoeveel netten vol vis zou genoeg zijn om iemands schuld af te betalen? Wat voor vangst zou er nodig zijn om alles achter je te laten? Misschien ‘zoveel vis dat ze bijna zonken’? Zoveel vis vangt Petrus in ieder geval precies voordat hij alles achter zich laat - inclusief zijn boot, zou het een lease zijn? - en met Jezus meegaat (Lukas 5:1-11). Dezelfde Jezus trouwens, die een paar verzen eerder zijn eerste (en enige) beschreven bijbellezing doet in de synagoge (Lukas 4:14-30). De tekst die Jezus leest (en voortijdig stopt, zie een [eerdere](https://www.dorothygemeenschap.nl/2019/03/25/de-bijbel-lezen-als-jezus/) blog) eindigt met een visioen van Jesaja, over het uitroepen van een ‘jubeljaar van de Heer’. Dat Jezus kiest voor deze tekst (en Lukas ervoor kiest om dit vast te leggen in zijn evangelie) zegt veel over de verhouding tussen Jezus en schuld. Zo’n jubeljaar is namelijk niet zo onschuldig als het klinkt. Het is een van de radicaalste politiek-economische voorstellen die er in de bijbel te vinden zijn.
 
@@ -27,21 +28,13 @@ Graebers boek staat vol met machthebbers, economen en andere verdedigers van de 
 Maar ook als je de consequenties van een economie zonder schuld en rente wat abstract vindt. En ook als je vind dat mensen en landen met schuld het vooral aan zichzelf te danken hebben. Stel je eens voor wat voor feest het jubeljaar zou zijn: in Nederland alleen al honderdduizenden mensen die zich opeens bevrijd weten van hun financiële zorgen. Wereldwijd hele landen die opeens geld overhouden voor de eigen bevolking. Arbeiders over de hele wereld die de vruchten van hun arbeid loon mogen houden, en ze niet zien wegsijpelen naar louche bureautjes met valse beloftes en de machthebbers en werkgevers die van hun kwetsbaarheid profiteren. Een aarde waarop genoeg genoeg is, en stilstand geen achteruitgang.
 
 Dat is het visioen waar ik elke dag voor bid, in Jezus' woorden:
-
 Onze Vader die in de hemel zijt,
-
 Uw naam worde geheiligd.
-
 Uw koninkrijk kome.
-
 Uw wil geschiede, op aarde zoals in de hemel.
-
 Geef ons heden ons dagelijks brood.
-
 En vergeef ons onze schulden
-
 zoals ook wij onze schuldenaars vergeven. 
-
 Amen.
 
 [^1]: Zie bijvoorbeeld het boek Matthew and the Margins van Warren Carter over de economische omstandigheden in de tijd van Jezus.
