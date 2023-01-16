@@ -25,16 +25,24 @@ OK, een aantal oude bijbelteksten heeft iets tegen het heffen van rente en het o
 
 Graebers boek staat vol met machthebbers, economen en andere verdedigers van de status quo die proberen te verantwoorden waarom schuld er altijd al geweest is, eigenlijk onschuldig is en sowieso niet te veranderen. Dit lijkt grotendeels gelukt. Zelfs in een context waarin de armste landen van de wereld 10% van hun totale export betalen ([wereldbank 2022](https://www.worldbank.org/en/news/press-release/2022/12/06/debt-service-payments-put-biggest-squeeze-on-poor-countries-since-2000)) aan schulden die voormalig dictators hebben afgesloten met westerse banken, vinden veel mensen dat schuld nou eenmaal betaald moet worden. Zelfs in een context waarin bijna 600.000 Nederlandse huishoudens te maken heeft met geregistreerde problematische schulden ([CBS, 2022](https://dashboards.cbs.nl/v3/SchuldenproblematiekInBeeld/)) vinden we het normaal om de schuldenaren verantwoordelijk te houden. Op z’n best vinden we schuldenaren domme mensen die gewaarschuwd moeten worden (let op, geld lenen kost geld![^7]), op z’n slechtst vinden we schuldenaren egoistische mensen die boven hun stand leven.
 
-Maar ook als je de consequenties van een economie zonder schuld en rente wat abstract vindt. En ook als je vind dat mensen en landen met schuld het vooral aan zichzelf te danken hebben. Stel je eens voor wat voor feest het jubeljaar zou zijn: in Nederland alleen al honderdduizenden mensen die zich opeens bevrijd weten van hun financiële zorgen. Wereldwijd hele landen die opeens geld overhouden voor de eigen bevolking. Arbeiders over de hele wereld die de vruchten van hun arbeid loon mogen houden, en ze niet zien wegsijpelen naar louche bureautjes met valse beloftes en de machthebbers en werkgevers die van hun kwetsbaarheid profiteren. Een aarde waarop genoeg genoeg is, en stilstand geen achteruitgang.
+Maar ook als je de consequenties van een economie zonder schuld en rente wat abstract vindt. En ook als je vind dat mensen en landen met schuld het vooral aan zichzelf te danken hebben. Stel je eens voor wat voor feest het jubeljaar zou zijn: in Nederland alleen al honderdduizenden mensen die zich opeens bevrijd weten van hun financiële zorgen. Wereldwijd hele landen die opeens geld overhouden voor de eigen bevolking. Arbeiders over de hele wereld die de vruchten van hun arbeid loon mogen houden, en ze niet zien wegsijpelen naar louche arbeidsbureaus met valse beloftes en de machthebbers en werkgevers die van hun kwetsbaarheid profiteren. Een aarde waarop genoeg genoeg is, en stilstand geen achteruitgang.
 
 Dat is het visioen waar ik elke dag voor bid, in Jezus' woorden:
+
 Onze Vader die in de hemel zijt,
+
 Uw naam worde geheiligd.
+
 Uw koninkrijk kome.
+
 Uw wil geschiede, op aarde zoals in de hemel.
+
 Geef ons heden ons dagelijks brood.
+
 En vergeef ons onze schulden
+
 zoals ook wij onze schuldenaars vergeven. 
+
 Amen.
 
 [^1]: Zie bijvoorbeeld het boek Matthew and the Margins van Warren Carter over de economische omstandigheden in de tijd van Jezus.
