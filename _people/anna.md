@@ -6,7 +6,7 @@ first_name: Anna
 birthyear: 1989
 ---
 NAME_AND_AGE is wijkverpleegkundige, en zet zich momenteel vooral in voor het opstarten van de Dorothy-gemeenschap.
-Anna is getrouwd met Herman, en ze hebben een dochter, Naomi, geboren in maart 2018.
+Anna is getrouwd met Herman, en ze hebben twee dochters, Naomi (2018) en Miriam(2022).
 
 Oorspronkelijk komt ze uit Zweden en is opgegroeid binnen de Lutherse kerktraditie.
 Ze heeft, naast [De Wonne](http://wonne.nl/) en het [Noëlhuis](http://noelhuis.nl/),
