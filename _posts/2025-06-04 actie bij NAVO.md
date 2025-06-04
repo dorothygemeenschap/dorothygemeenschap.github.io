@@ -85,7 +85,7 @@ knop die de hele wereld onleefbaar kan maken? En hoe zit het dichter bij huis: w
 leiding van PVV, AfD en Front National? Dit doet mij denken aan het gedicht van Dorothee Sölle: Al onze investeringen in de 
 menseneter die het militarisme is kunnen ook zomaar in ons eigen land in foute handen vallen.
 
-**Wegkijken is geen optie**
+**Wegkijken is geen optie**  
 Hiermee bedoel ik natuurlijk niet dat we rustig moeten toezien hoe de wereld om ons heen verslonden wordt 
 door autocraten met grote legers. Zeker vanuit onze geprivilegieerde positie in de wereld is het niet te 
 verdedigen om slachtoffers van oorlogsgeweld zomaar aan hun lot over te laten. Maar het voelt nu alsof 
@@ -128,7 +128,7 @@ de laatste snik willen verzetten tegen rechtse dictatuur? Of is het vooral die e
 bang voor zijn, terwijl het verval van onze eigen democratie ons niet zoveel doet. Maar goed, dat is misschien stof voor 
 een ander artikel.
 
-**Dus toch**
+**Dus toch**  
 Ik kies er dus toch voor om mee te doen aan een actie tijdens de NAVO-top. Niet omdat ik denk dat we ons niet 
 moeten organiseren tegen onrecht, maar omdat ik denk dat geweld ons niet gaat redden van onrecht. De NAVO, ooit 
 begonnen als defensief verbond, kan na offensieve avonturen als Irak en Afghanistan niet meer serieus genomen 
