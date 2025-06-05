@@ -2,7 +2,7 @@
 layout: default
 title: Waarom ik (toch) naar een demonstratie tegen de NAVO ga
 date: 2025-06-05T06:49:52.887Z
-published: false
+published: true
 excerpt_separator: <!--more-->
 author: Herman
 ---
