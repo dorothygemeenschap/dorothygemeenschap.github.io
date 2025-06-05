@@ -160,6 +160,4 @@ zo is het nog altijd gegaan”
 [^2]: Zie bijvoorbeeld [dit artikel](https://www.bbc.com/news/articles/cgkm7lly61do) van de BBC.
 [^3]: De cijfers komen uit [dit artikel](https://apnews.com/article/deserters-awol-ukraine-russia-war-def676562552d42bc5d593363c9e5ea0) van APnews. Met de framing van het artikel dat dit iets verschrikkelijks is ben ik het dan weer minder eens.
 [^4]: 250.000 Russische dienstplichtige mannen en 170.000 Oekraïense, schat een [Duitse pacifistische vereniging](https://de.connection-ev.org/article-3870). Maar omdat ik geen betere bron kon vinden ben ik wat voorzichtig met getallen.
-[^5]:  55% van alle militaire uitgaven wereldwijd worden gedaan door de NAVO, [SIPRI](https://www.sipri.org/media/press-release/2025/unprecedented-rise-global-military-expenditure-european-and-middle-east-spending-surges).
-[^6]: 
-[^7]: 
+[^5]:  55% van alle militaire uitgaven wereldwijd worden gedaan door de NAVO, [SIPRI](https://www.sipri.org/media/press-release/2025/unprecedented-rise-global-military-expenditure-european-and-middle-east-spending-surges)
