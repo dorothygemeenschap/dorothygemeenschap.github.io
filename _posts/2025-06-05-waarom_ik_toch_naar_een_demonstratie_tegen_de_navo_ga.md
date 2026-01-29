@@ -8,7 +8,7 @@ author: Herman
 ---
 Een tijdje geleden vroegen vrienden van ons of we mee wilden organiseren aan een actie tijdens de NAVO-top. 
 Ik heb al vaker geprotesteerd tegen militarisme, kernwapens en wapenhandel. Maar deze keer moest ik er even goed over nadenken.
-oeten we nu er oorlog is in Europa niet juist hopen op een sterke NAVO? Moeten we ons niet solidair opstellen met de 
+Moeten we nu er oorlog is in Europa niet juist hopen op een sterke NAVO? Moeten we ons niet solidair opstellen met de 
 mensen in Oekraïne door vooral veel militaire steun te leveren? Zijn het niet juist de nationalistische krachten in 
 Europa en de VS die onze veiligheid en solidariteit op het spel zetten door de NAVO te ondermijnen 
 (en militaire samenwerking binnen Europa tegen te werken)? Dit vind ik moeilijke vragen.
