@@ -26,6 +26,6 @@ gasten, vrienden, vrijwilligers, de maatschappij en de wereld.
 ### Praktisch
 
 * We wonen samen in een gemeenschap met een gedeelde keuken en woonkamer.
-* Naast de kerngroep wonen er ook vijf tot zeven gasten bij ons in huis.
+* Naast de kerngroep wonen er ook tijdelijke gasten bij ons in huis.
 * We eten 's avonds samen met iedereen die bij ons woont. De maaltijd is ook open voor bezoekers.
 * We organiseren rondetafelgesprekken en andere ontmoetingen met mensen van buiten de gemeenschap.
