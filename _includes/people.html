@@ -6,6 +6,20 @@
                     <hr class="star-primary">
                 </div>
             </div>
+              <div class="row faces-container">
+                {% assign people_count = site.people | size %}
+                {% for person in site.people %}
+                  <div class="people-item text-center" style="width: {{ 100 | divided_by:people_count | round:1 }}%">
+                    <a href="#wie-{{ person.slug }}" aria-controls="wie-{{ person.slug }}" role="tab" data-toggle="tab" data-toggle-hover="tab">
+                        <div class="img-face-container">
+                          <img src="img/{{ person.img }}" class="img-responsive img-face" alt="{{ person.name }}">
+                          <div class="img-face-blur"></div>
+                        </div>
+                        <div class="img-face-caption hidden-xs hidden-sm">{{ person.first_name }}</div>
+                    </a>
+                  </div>
+                {% endfor %}
+            </div>
                       
             <div class="row">
               <div class="col-lg-12 text-center">
