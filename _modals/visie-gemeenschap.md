@@ -20,12 +20,10 @@ voor anderen. Wij vinden dat het niet zou moeten uitmaken waar je geboren bent
 of hoeveel geld je hebt om een volwaardig leven te leiden.
 Daarom willen wij vooral gastvrijheid bieden aan mensen die buitengesloten worden.
 
-In onze gastvrijheid willen we, in steeds wijdere kringen, uitreiken naar: onze
-gasten, vrienden, vrijwilligers, de maatschappij en de wereld.
 
 ### Praktisch
 
-* We wonen samen in een gemeenschap met een gedeelde keuken en woonkamer.
-* Naast de kerngroep wonen er ook tijdelijke gasten bij ons in huis.
+* We wonen samen in een gemeenschap met een gedeelde keuken, woonkamer en badkamers.
+* Naast de kernbewoners wonen er ook tijdelijke gasten bij ons in huis.
 * We eten 's avonds samen met iedereen die bij ons woont. De maaltijd is ook open voor bezoekers.
 * We organiseren rondetafelgesprekken en andere ontmoetingen met mensen van buiten de gemeenschap.
