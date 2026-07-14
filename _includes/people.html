@@ -22,16 +22,7 @@
             </div>
             <div class="row people-desc">
               <div class="panel panel-default tabs-virgin">
-                <div class="panel-body">
-                  <div class="tab-content">
-                    {% for person in site.people %}
-                      <div role="tabpanel" class="tab-pane fade" id="wie-{{ person.slug }}">
-                        {% capture nameage %}{{ person.name }} ({{ 'now' | date:'%Y' | minus:person.birthyear }}){% endcapture %}
-                        {{ person.content | replace:'NAME_AND_AGE',nameage }}
-                      </div>
-                    {% endfor %}
-                  </div>
-                </div>
+                
               </div>
             </div>
                       
