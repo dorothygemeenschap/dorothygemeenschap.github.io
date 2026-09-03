@@ -1,3 +1,9 @@
+---
+layout: default
+modal-id: dorothy-day
+title: Dorothy Day
+---
+
 <p><img class="img-responsive" src="/img/Dorothy-Day-Colourised.jpg" alt="" style="width: 30%;"/></p>
 <p>
                       <b>Dorothy Day</b> (1897-1980) was journalist, schrijver en activist en stond aan de start van de wereldwijde 
