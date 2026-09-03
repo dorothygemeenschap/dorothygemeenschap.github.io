@@ -4,8 +4,6 @@ modal-id: dorothy-stang
 title: Dorothy Stang
 ---
 
-<img src="/img/Dorothy-Stang.jpg" alt="" style="width: 30%;"/>
-
 <b>Dorothy Stang</b> (1931-2005) was een Noord-Amerikaanse zuster die zich samen met haar mede zusters
 (Sisters of Notre Dame de Namur) sinds begin jaren ‘70 inzette voor bescherming van het Braziliaanse 
 regenwoud en de rechten van de arme boeren die daar woonden. Ze leefde dicht bij de boerengemeenschappen 
@@ -34,3 +32,5 @@ behoud van het regenwoud.
 Dorothy Stang was zich zeer bewust van de kritieke rol die de amazone, ‘de longen van de aarde’, 
 speelt voor onze planeet. Ze droeg vaak een t-shirt met de Portugese slogan: ‘A Morte da floresta é o fim da nossa vida’: 
 De dood van het bos is het einde van ons leven.
+
+<img src="/img/Dorothy-Stang.jpg" alt="" style="width: 100%;"/>
