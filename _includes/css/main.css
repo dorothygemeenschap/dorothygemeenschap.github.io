@@ -151,7 +151,7 @@ section.success a:not(.btn):hover,
 section.success a:not(.btn):focus,
 section.success a:not(.btn):active,
 section.success a:not(.btn).active {
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {
