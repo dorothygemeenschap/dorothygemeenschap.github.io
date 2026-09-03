@@ -5,13 +5,13 @@ title: Dorothy Day
 ---
 
 <p><img class="img-responsive" src="/img/Dorothy-Day-Colourised.jpg" alt="" style="width: 30%;"/></p>
-<p>
+
                       <b>Dorothy Day</b> (1897-1980) was journalist, schrijver en activist en stond aan de start van de wereldwijde 
                       Catholic Workerbeweging. In haar jonge jaren in New York was ze verslaggever voor een socialistische 
                       krant en actief in de strijd voor het vrouwenkiesrecht. Ze raakte geleidelijk geïnteresseerd in het 
                       katholieke geloof en in 1932 komen haar sociale activisme en diepgewortelde geloof bij elkaar als ze 
                       Peter Maurin ontmoet. Hij is geïnspireerd door Sint Franciscus en 
-                      het personalisme van filosoof Emmanuel Mounier en wil graag met Dorothy wil samenwerken.</p>
+                      het personalisme van filosoof Emmanuel Mounier en wil graag met Dorothy wil samenwerken.
                   <p>Ze beginnen samen een krantje: ‘The Catholic Worker’. Daarin schreven zij over de progressieve sociale 
                       leer van de kerk, zodat de veelal katholieke arme arbeiders uit hun eigen traditie konden putten in hun strijd 
                       voor sociale rechtvaardigheid. In de krant wordt ook Peter Maurin’s ‘programma’ gepubliceerd: Ronde-tafeldiscussies 
