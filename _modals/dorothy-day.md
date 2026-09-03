@@ -4,8 +4,6 @@ modal-id: dorothy-day
 title: Dorothy Day
 ---
 
-<img src="/img/Dorothy-Day-Colourised.jpg" alt="" style="width: 30%;"/>
-
 <b>Dorothy Day</b> (1897-1980) was journalist, schrijver en activist en stond aan de start van de wereldwijde 
 Catholic Workerbeweging. In haar jonge jaren in New York was ze verslaggever voor een socialistische 
 krant en actief in de strijd voor het vrouwenkiesrecht. Ze raakte geleidelijk geïnteresseerd in het 
@@ -27,3 +25,5 @@ zijn ongeveer 200 autonome gemeenschappen, de meesten in de Verenigde Staten en 
 in Europa. De beweging is tegenwoordig sterk oecumenisch en elke gemeenschap probeert op hun eigen 
 wijze vorm te geven aan de pijlers van de beweging: praktische steun aan gemarginaliseerde mensen, 
 eenvoudig leven, geweldloosheid en actief verzet tegen onrechtvaardige structuren.
+
+<img src="/img/Dorothy-Day-Colourised.jpg" alt="" style="width: 100%;"/>
