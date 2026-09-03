@@ -6,7 +6,7 @@ title: Dorothy Day
 
 <img src="/img/Dorothy-Day-Colourised.jpg" alt="" style="width: 30%;"/>
 
-Dorothy Day (1897-1980) was journalist, schrijver en activist en stond aan de start van de wereldwijde 
+<b>Dorothy Day</b> (1897-1980) was journalist, schrijver en activist en stond aan de start van de wereldwijde 
 Catholic Workerbeweging. In haar jonge jaren in New York was ze verslaggever voor een socialistische 
 krant en actief in de strijd voor het vrouwenkiesrecht. Ze raakte geleidelijk geïnteresseerd in het 
 katholieke geloof en in 1932 komen haar sociale activisme en diepgewortelde geloof bij elkaar als ze 
