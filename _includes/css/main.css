@@ -224,7 +224,7 @@ section.success a:not(.btn).active {
     margin-top: 15px;
     border: solid 2px #fff;
     /*font-size: 20px;*/
-    color: #fff;
+    color: #{{ site.color.secondary }};
     background: 0 0;
     transition: all .3s ease-in-out;
 }
