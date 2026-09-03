@@ -6,7 +6,7 @@ title: Dorothy Stang
 
 <img src="/img/Dorothy-Stang.jpg" alt="" style="width: 30%;"/>
 
-Dorothy Stang (1931-2005) was een Noord-Amerikaanse zuster die zich samen met haar mede zusters
+<b>Dorothy Stang</b> (1931-2005) was een Noord-Amerikaanse zuster die zich samen met haar mede zusters
 (Sisters of Notre Dame de Namur) sinds begin jaren ‘70 inzette voor bescherming van het Braziliaanse 
 regenwoud en de rechten van de arme boeren die daar woonden. Ze leefde dicht bij de boerengemeenschappen 
 en hielp hen in hun levensonderhoud te voorzien door gebruik te maken van duurzame landbouwtechnieken 
