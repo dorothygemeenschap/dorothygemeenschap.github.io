@@ -1,3 +1,9 @@
+---
+layout: default
+modal-id: dorothy-stang
+title: Dorothy Stang
+---
+
 <p><img class="img-responsive" src="/img/Dorothy-Stang.jpg" alt="" style="width: 30%;" style="float: left;"/></p>
 <p></p>
                       <b>Dorothy Stang</b> (1931-2005) was een Noord-Amerikaanse zuster die zich samen met haar mede zusters 
