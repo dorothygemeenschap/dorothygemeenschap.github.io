@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: ons-verhaal
+modal-id: ons-hele-verhaal
 title: Ons Verhaal
 ---
                   
